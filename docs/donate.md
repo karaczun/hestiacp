@@ -9,6 +9,7 @@ By donating to Hestia, you help maintain server costs, development time, and mor
 
 Here are our official donation platforms:
 
+siema
 - [PayPal](https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=ST87LQH2CHGLA)
 - Crypto
   - Bitcoin: bc1q48jt5wg5jaj8g9zy7c3j03cv57j2m2u5anlutu
